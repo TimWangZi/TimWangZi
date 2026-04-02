@@ -4,7 +4,7 @@ I'm a university student from Chinese mainland. Here are some fun projects that 
 
 I use these tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,anaconda,blender,unreal,unity,ps,pr,ae,raspberrypi,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,anaconda,blender,unreal,unity,godot,ps,pr,ae,raspberrypi,arduino)](https://skillicons.dev)
 
 I also use these language
 
