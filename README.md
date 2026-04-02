@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello
 
-<!--
-**TimWangZi/TimWangZi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a university student from Chinese mainland. Here are some fun projects that may help you.😊
 
-Here are some ideas to get you started:
+I use these tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,anaconda,blender,unreal,unity,ps,pr,ae,raspberrypi,arduino)](https://skillicons.dev)
+
+I also use these language
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,py,js,css)](https://skillicons.dev) 
+
+Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=qt,pytorch,ros)](https://skillicons.dev) 
+
+Operating system
+
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev) 
+
+Contact Me
+E-mail: tiwsoft@outlook.com
