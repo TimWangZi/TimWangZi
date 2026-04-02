@@ -18,5 +18,3 @@ Operating system
 
 [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu&perline=6)](https://skillicons.dev) 
 
-Contact Me
-E-mail: tiwsoft@outlook.com
