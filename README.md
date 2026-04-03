@@ -1,6 +1,6 @@
 ## Hello
 
-I'm a university student from Chinese mainland. Here are some fun projects that may help you.😊
+I'm a university student from mainland China. Here are some fun projects that may help you.😊
 
 I use these tools
 
